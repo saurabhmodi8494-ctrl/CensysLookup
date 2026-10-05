@@ -2,9 +2,6 @@
 
 Searches an IP address or website name using the Censys API, prints the JSON response and saves the results to `Result.csv`.
 
-**Created by:** Saurabh Modi
-**Created on:** 11-03-2018
-
 ## Installation
 
 ```bash
